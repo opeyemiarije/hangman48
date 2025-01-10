@@ -1,6 +1,6 @@
 import random
 
-#Create a list containing the names of your 5 favorite fruits
+# Create a list containing the names of your 5 favorite fruits
 favorite_fruits = ["apple", "banana", "cherry", "date", "elderberry"]
 
 # Assign this list to a variable called word_list
